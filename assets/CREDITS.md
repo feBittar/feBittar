@@ -5,7 +5,7 @@
 - `header-mobile-light.svg` e `header-mobile-dark.svg`: composição própria para telas de até 600 px, com título e subtítulo maiores proporcionalmente.
 - `felipe-sculpture.webp`: retrato em mármore do portfólio de Felipe, reutilizado como parte da apresentação do próprio autor.
 - Pequeno escultor nas capas: pixels e paleta extraídos do código original `ajudante-bronze.js` do portfólio; personagem preservado e convertido em retângulos SVG.
-- Painéis `project-*.svg`: composições vetoriais próprias com os casos publicados no portfólio. Logos Fitfeed e TV1 reutilizados dos SVGs originais do site; marca gevia.social em Cal Sans e laranja `#fe683e`. Licença de Cal Sans incluída.
+- Painéis `project-*.svg`: composições próprias com os casos publicados no portfólio. As marcas são as imagens PNG fornecidas pelo usuário, preservadas em `assets/logos/` e incorporadas aos painéis. A imagem Fitfeed tem marca preta e fundo transparente; gevia.social e TV1 têm fundo escuro.
 - Referência: https://ofelipemart.gevia.co.
 - Referências de organização do perfil: https://github.com/AnuragHazra (abertura e especialidade), https://github.com/antfu (links concisos) e https://github.com/leerob (destaque para os projetos). Nenhum conteúdo ou asset desses perfis foi copiado.
 - Revisão autoral orientada pela coleção indicada pelo usuário: https://github.com/abhisheknaiidu/awesome-github-profile-readme. Referências selecionadas: https://github.com/WaylonWalker (identidade ligada ao site pessoal) e https://github.com/caneco (apresentação direta). Composição e assets próprios do portfólio de Felipe.
