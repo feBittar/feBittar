@@ -21,28 +21,28 @@ Ajudo marcas a crescer nas redes com IA que cria o conteúdo. Construo os produt
 
 <a href="https://social.gevia.co">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-gevia-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-gevia-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-gevia-dark.svg">
-    <img src="assets/project-gevia-light.svg" width="100%" alt="gevia.social — Uma plataforma que estuda a audiência, escreve posts e monta carrosséis para marcas. Você só aprova.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-gevia-brand-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-gevia-brand-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-gevia-brand-dark.svg">
+    <img src="assets/project-gevia-brand-light.svg" width="100%" alt="gevia.social — Uma plataforma que estuda a audiência, escreve posts e monta carrosséis para marcas. Você só aprova.">
   </picture>
 </a>
 
 <a href="https://ofelipemart.gevia.co/#trabalhos">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-fitfeed-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-fitfeed-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-fitfeed-dark.svg">
-    <img src="assets/project-fitfeed-light.svg" width="100%" alt="Fitfeed — Criei o sistema editorial de IA, da curadoria à publicação. Mais de 20 notícias por dia com uma equipe pequena.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-fitfeed-brand-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-fitfeed-brand-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-fitfeed-brand-dark.svg">
+    <img src="assets/project-fitfeed-brand-light.svg" width="100%" alt="Fitfeed — Criei o sistema editorial de IA, da curadoria à publicação. Mais de 20 notícias por dia com uma equipe pequena.">
   </picture>
 </a>
 
 <a href="https://ofelipemart.gevia.co/#trabalhos">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-tv1-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-tv1-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-tv1-dark.svg">
-    <img src="assets/project-tv1-light.svg" width="100%" alt="Livelabs · Grupo TV1 — Na X.lab, construí uma plataforma de estratégia, criativo, briefings e imagens para concorrências. Um mês de trabalho passou para 3 a 5 dias com uma equipe menor.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-tv1-brand-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-tv1-brand-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-tv1-brand-dark.svg">
+    <img src="assets/project-tv1-brand-light.svg" width="100%" alt="Livelabs · Grupo TV1 — Na X.lab, construí uma plataforma de estratégia, criativo, briefings e imagens para concorrências. Um mês de trabalho passou para 3 a 5 dias com uma equipe menor.">
   </picture>
 </a>
 
