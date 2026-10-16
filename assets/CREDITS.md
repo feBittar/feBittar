@@ -3,7 +3,7 @@
 - `header-light.svg` e `header-dark.svg`: capas vetoriais com a identidade do portfólio de Felipe Bittar Martiniano. Cada linha é centralizada pelos limites visíveis das letras, incluindo ponto e descendentes. Versões para os temas claro e escuro.
 - Tipografia do cabeçalho: Italiana e DM Sans, convertidas em contornos vetoriais. Licenças SIL Open Font License incluídas nesta pasta.
 - Títulos dos projetos: Cal Sans SemiBold (peso 600), convertida em contornos vetoriais. Fonte original de https://github.com/calcom/sans/tree/v1.0.0; arquivo e licença SIL OFL em `assets/fonts/`.
-- Ícones da stack: Devicon (MIT) e Simple Icons (CC0), com rótulos em DM Sans e composição própria. Fontes e licenças em `assets/stack/`.
+- Ícones da stack: Devicon (MIT), com fundo transparente e rótulos em DM Sans. Variantes para temas claro e escuro, com Express e Sentry adaptados para contraste. Fontes e licença em `assets/stack/`.
 - `header-mobile-light.svg` e `header-mobile-dark.svg`: composição própria para telas de até 600 px, com título e subtítulo maiores proporcionalmente.
 - `felipe-sculpture.webp`: retrato em mármore do portfólio de Felipe, reutilizado como parte da apresentação do próprio autor.
 - Pequeno escultor nas capas: pixels e paleta extraídos do código original `ajudante-bronze.js` do portfólio; personagem preservado e convertido em retângulos SVG.
