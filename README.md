@@ -46,14 +46,6 @@ Ajudo marcas a crescer nas redes com IA que cria o conteúdo. Construo os produt
   </picture>
 </a>
 
-### Por trás das interfaces
-
-**[image-gen-nextjs ↗](https://github.com/feBittar/image-gen-nextjs)** — Editor de layouts, templates e carrosséis, com prévia e exportação de imagens.<br>
-<sub>Next.js · React · TypeScript</sub>
-
-**[carousel-api ↗](https://github.com/feBittar/carousel-api)** — API para compor slides, renderizar imagens e publicar no Google Cloud Storage.<br>
-<sub>Node.js · Express · TypeScript · Puppeteer</sub>
-
 ---
 
 O pequeno escultor no topo veio do meu **[ateliê interativo](https://ofelipemart.gevia.co)**: um portfólio de mármore e bronze, com animação, jogos e um trabalho sempre em processo.
