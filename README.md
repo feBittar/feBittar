@@ -21,19 +21,19 @@ Ajudo marcas a crescer nas redes com IA que cria o conteúdo. Construo os produt
 
 <a href="https://social.gevia.co">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-gevia-brand-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-gevia-brand-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-gevia-brand-dark.svg">
-    <img src="assets/project-gevia-brand-light.svg" width="100%" alt="gevia.social — Uma plataforma que estuda a audiência, escreve posts e monta carrosséis para marcas. Você só aprova.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-gevia-brand-v2-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-gevia-brand-v2-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-gevia-brand-v2-dark.svg">
+    <img src="assets/project-gevia-brand-v2-light.svg" width="100%" alt="gevia.social — Uma plataforma que estuda a audiência, escreve posts e monta carrosséis para marcas. Você só aprova.">
   </picture>
 </a>
 
 <a href="https://ofelipemart.gevia.co/#trabalhos">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-fitfeed-brand-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-fitfeed-brand-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-fitfeed-brand-dark.svg">
-    <img src="assets/project-fitfeed-brand-light.svg" width="100%" alt="Fitfeed — Criei o sistema editorial de IA, da curadoria à publicação. Mais de 20 notícias por dia com uma equipe pequena.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-fitfeed-brand-v2-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-fitfeed-brand-v2-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-fitfeed-brand-v2-dark.svg">
+    <img src="assets/project-fitfeed-brand-v2-light.svg" width="100%" alt="Fitfeed — Criei o sistema editorial de IA, da curadoria à publicação. Mais de 20 notícias por dia com uma equipe pequena.">
   </picture>
 </a>
 
