@@ -19,6 +19,8 @@ Sou o Felipe. Desenvolvo e mantenho produtos digitais de ponta a ponta, da inter
 
 Minha experiência em redes sociais conecta engenharia à rotina de conteúdo: briefing, identidade visual, criação, calendário, métricas e publicação, com projetos para marcas, portais de notícias e agências.
 
+Também trabalho com desenvolvimento assistido por IA, com **95 bilhões de tokens utilizados no Claude Code**.
+
 ### O que construo e sustento
 
 - **Produto full stack:** interfaces e editores em React e TypeScript, APIs em Node.js e Express.
