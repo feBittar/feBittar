@@ -13,9 +13,11 @@
   <a href="mailto:felipebittarmartiniano@gmail.com">E-mail</a>
 </p>
 
-### Sou o Felipe, fundador da [gevia.social](https://social.gevia.co).
+### Engenheiro de IA fullstack
 
-Ajudo marcas a crescer nas redes com IA que cria o conteúdo. Construo os produtos de ponta a ponta, da interface aos sistemas de automação.
+Sou o Felipe. Desenvolvo produtos com inteligência artificial de ponta a ponta, da interface às APIs e aos sistemas de automação.
+
+Minha experiência também passa por redes sociais, criação de conteúdo e automação editorial, com projetos para marcas, portais de notícias e agências.
 
 ### Alguns trabalhos
 
