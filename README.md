@@ -91,8 +91,6 @@ Também trabalho com desenvolvimento assistido por IA, com **95 bilhões de toke
 
 ---
 
-O pequeno escultor no topo veio do meu **[ateliê interativo](https://ofelipemart.gevia.co)**: um portfólio de mármore e bronze, com animação, jogos e um trabalho sempre em processo.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-bittar-martiniano/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="https://www.instagram.com/ofelipemart/">Instagram</a> &nbsp; · &nbsp;
