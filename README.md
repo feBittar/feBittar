@@ -26,6 +26,38 @@ Minha experiência em redes sociais conecta engenharia à rotina de conteúdo: b
 - **Dados e integrações:** Supabase e PostgreSQL, isolamento de clientes, OAuth, publicação e pagamentos.
 - **Operação de SaaS:** filas com BullMQ e Redis, processamento de mídia, Docker, CI/CD e monitoramento.
 
+### Stack
+
+**Produto**
+
+<p>
+  <img src="assets/stack/typescript.svg" width="76" height="78" alt="TypeScript" title="TypeScript">&nbsp;
+  <img src="assets/stack/react.svg" width="76" height="78" alt="React" title="React">&nbsp;
+  <img src="assets/stack/vitejs.svg" width="76" height="78" alt="Vite" title="Vite">&nbsp;
+  <img src="assets/stack/tailwindcss.svg" width="76" height="78" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;
+  <img src="assets/stack/nodejs.svg" width="76" height="78" alt="Node.js" title="Node.js">&nbsp;
+  <img src="assets/stack/express.svg" width="76" height="78" alt="Express" title="Express">
+</p>
+
+**Dados e IA**
+
+<p>
+  <img src="assets/stack/postgresql.svg" width="76" height="78" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+  <img src="assets/stack/supabase.svg" width="76" height="78" alt="Supabase" title="Supabase">&nbsp;
+  <img src="assets/stack/redis.svg" width="76" height="78" alt="Redis" title="Redis">&nbsp;
+  <img src="assets/stack/googlegemini.svg" width="76" height="78" alt="Gemini" title="Gemini">&nbsp;
+  <img src="assets/stack/openrouter.svg" width="76" height="78" alt="OpenRouter" title="OpenRouter">
+</p>
+
+**Operação e qualidade**
+
+<p>
+  <img src="assets/stack/docker.svg" width="76" height="78" alt="Docker" title="Docker">&nbsp;
+  <img src="assets/stack/githubactions.svg" width="76" height="78" alt="GitHub Actions" title="GitHub Actions">&nbsp;
+  <img src="assets/stack/sentry.svg" width="76" height="78" alt="Sentry" title="Sentry">&nbsp;
+  <img src="assets/stack/vitest.svg" width="76" height="78" alt="Vitest" title="Vitest">
+</p>
+
 ### Alguns trabalhos
 
 <a href="https://social.gevia.co">
